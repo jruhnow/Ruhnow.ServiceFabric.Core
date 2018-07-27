@@ -1,1 +1,1 @@
-[![Build status](https://{your-vsts-organization}.visualstudio.com/{your-vsts-project}/_apis/build/status/{build-definition-name}?branch=master)](https://{your-vsts-organization}.visualstudio.com/{your-vsts-project}/_build/latest?definitionId={definitionId}&branch=master)]
+[![Build status](https://ruhnow.visualstudio.com/Development/_apis/build/status/Ruhnow.ServiceFabric.Core-CI?branch=master)](https://ruhnow.visualstudio.com/Development/_build/latest?definitionId=Ruhnow.ServiceFabric.Core-CI&branch=master)]
